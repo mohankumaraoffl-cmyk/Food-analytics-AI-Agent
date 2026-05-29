@@ -1,7 +1,7 @@
+streamlit
 pandas
-matplotlib
-seaborn
-scipy
-openpyxl
-scikit-learn
+numpy
+textblob
 plotly
+scikit-learn
+google-generativeai
